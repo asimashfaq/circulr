@@ -54,6 +54,40 @@
       "pricePrecision": 8
     }
   ],
+  "txs": [
+    {
+      "type":"eth_transfer",
+      "gasLimit":"0x5208"
+    },
+    {
+      "type":"token_transfer",
+      "gasLimit":"0x1d4c0"
+    },
+    {
+      "type":"approve",
+      "gasLimit":"0x1d4c0"
+    },
+    {
+      "type":"withdraw",
+      "gasLimit":"0x1d4c0"
+    },
+    {
+      "type":"deposit",
+      "gasLimit":"0x1d4c0"
+    },
+    {
+      "type":"cancelOrder",
+      "gasLimit":"0x249f0"
+    },
+    {
+      "type":"cancelAllOrder",
+      "gasLimit":"0x249f0"
+    },
+    {
+      "type":"cancelOrderByTokenPair",
+      "gasLimit":"0x249f0"
+    }
+  ],
   "tokens": [
     {
       "symbol": "ETH",
