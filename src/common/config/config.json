@@ -16,7 +16,7 @@
   "walletAddress":"0xD033736d6DbC4b5DE792638B63561f1500eBc2C7",
   "contracts": [
     {
-      "address": "0x4d1201ddED60B2F107A8f10d2b108eB88e109f1B",
+      "address": "0x2aef829815b75db7175fc4d4baa82be0548fe534",
       "version": "v1.5.1"
     }
   ],
@@ -95,7 +95,7 @@
       "symbol": "LRC",
       "name": "Loopring",
       "digits": 18,
-      "address": "0x56d3ac5b595d8f727eab0a23cff29167e78c3ebc",
+      "address": "0x4d1201ddED60B2F107A8f10d2b108eB88e109f1B",
       "unit": "LRC",
       "website": "https://loopring.org",
       "allowance": "1000000000000000000000",
